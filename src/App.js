@@ -4,7 +4,9 @@ import Card from './Components/Card'
 
 function App() {
   return (
-    <Card />
+    <div className='flex justify-center items-center'>
+      <Card />
+    </div>
   );
 }
 

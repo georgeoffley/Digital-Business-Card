@@ -3,7 +3,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'inner-card-bg': '#1a1b21',
+        'info-text-color': '#DCDCDC',
+      }
+    },
   },
   plugins: [],
 }
