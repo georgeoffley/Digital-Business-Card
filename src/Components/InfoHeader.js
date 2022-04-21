@@ -12,7 +12,7 @@ function InfoHeader() {
           <a href="https://georgeoffley.com/" className='text-xs text-white'>Website/Blog</a>
         </div>
 
-        <div className='px-9 pt-4 flex justify-center items-center gap-4 text-white'>
+        <div className='px-9 pt-4 flex justify-center items-center gap-4 text-white font-medium text-sm'>
           <a href="https://twitter.com/georgeoffley" className='bg-[#2fe5ff] w-28 h-8 rounded-md flex items-center justify-center gap-2'>
             <i class="fa-brands fa-twitter"></i>
             <button type='button'>Twitter</button>
